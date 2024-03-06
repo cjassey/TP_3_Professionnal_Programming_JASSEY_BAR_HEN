@@ -1,4 +1,4 @@
-## What is a GA problem
+# What is a GA problem
 
 We talk of Genetic Algorithms to describe an algorithmic design pattern where the potential solutions to a problem are seen as a population and where we seek the most 
 adapted individuals of this population put under a Darwinist selective pressure (only themost adapted survive and reproduce). 
